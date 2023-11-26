@@ -12,7 +12,7 @@ app.get('/series', (req, res) => {
     const page = req.query.page
     const limit = req.query.limit
 
-    if ((!page) && (!limit)) {
+    if ((!page) || (!limit)) {
         return res.json(data)
     }
 
