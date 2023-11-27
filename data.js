@@ -20,6 +20,7 @@ data = [
             director: ["Raghav Subbu"],
         },
         poster: "https://www.imdb.com/title/tt9432978/mediaviewer/rm2976277760/",
+        thumbnail:"https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 2,
         releaseDate: "16-04-2019",
