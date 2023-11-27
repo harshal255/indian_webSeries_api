@@ -20,7 +20,7 @@ data = [
             director: ["Raghav Subbu"],
         },
         poster: "https://www.imdb.com/title/tt9432978/mediaviewer/rm2976277760/",
-        thumbnail:"https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 2,
         releaseDate: "16-04-2019",
@@ -47,6 +47,7 @@ data = [
             director: ["Krishna D.K.", "Raj Nidimoru", "Suparn Varma"],
         },
         poster: "https://www.imdb.com/title/tt9544034/mediaviewer/rm1173198593/",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 19,
         seasons: 2,
         releaseDate: "20 September 2019",
@@ -71,6 +72,7 @@ data = [
             director: ["Gurmmeet Singh", "Mihir Desai", "Karan Anshuman"],
         },
         poster: "https://www.imdb.com/title/tt6473300/mediaviewer/rm3373062913/",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 19,
         seasons: 2,
         releaseDate: "15 November 2018",
@@ -95,6 +97,7 @@ data = [
             director: ["Amit Golani"],
         },
         poster: "https://www.imdb.com/title/tt4742876/mediaviewer/rm2432953856/",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 5,
         seasons: 1,
         releaseDate: "3 June 2015",
@@ -122,6 +125,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt6077448/mediaviewer/rm1135188993/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 16,
         seasons: 2,
         releaseDate: "6 July 2018",
@@ -146,6 +150,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt11854694/mediaviewer/rm3405297665/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "16 March 2020",
@@ -170,6 +175,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt11912196/mediaviewer/rm1168488705/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "2 March 2020",
@@ -193,6 +199,7 @@ data = [
             director: ["Avinash Arun", "Prosit Roy"],
         },
         poster: "https://www.imdb.com/title/tt9680440/mediaviewer/rm2207495681/",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 9,
         seasons: 1,
         releaseDate: "15 May 2020",
@@ -217,6 +224,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt12392504/mediaviewer/rm2407113985/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 1,
         releaseDate: "10 October 2020",
@@ -241,6 +249,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt12004706/mediaviewer/rm684637185/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "5 March 2020",
@@ -266,6 +275,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt9814458/mediaviewer/rm3169496833/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 1,
         releaseDate: "4 August 2020",
@@ -290,6 +300,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt13174524/mediaviewer/rm4241270017/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 9,
         seasons: 1,
         releaseDate: "7 October 2020",
@@ -314,6 +325,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt9778022/mediaviewer/rm3951797249/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 16,
         seasons: 2,
         releaseDate: "14 August 2020",
@@ -337,6 +349,7 @@ data = [
             director: ["Ram Madhvani", "Sandeep Modi", "Vinod Rawat"],
         },
         poster: "https://www.imdb.com/title/tt12448030/mediaviewer/rm1699722497/",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 9,
         seasons: 1,
         releaseDate: "19 June 2020",
@@ -360,6 +373,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt8392006/mediaviewer/rm3610408448/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 12,
         seasons: 1,
         releaseDate: "14 December 2018",
@@ -385,6 +399,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt6466208/mediaviewer/rm2520011520/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "26 January 2018",
@@ -409,6 +424,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt9359338/mediaviewer/rm3856260353/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 1,
         releaseDate: "6 March 2020",
@@ -432,6 +448,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt9466186/mediaviewer/rm1888783361/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 9,
         seasons: 1,
         releaseDate: "15 December 2018",
@@ -450,6 +467,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt9868952/mediaviewer/rm2767351040/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 6,
         seasons: 1,
         releaseDate: "21 February 2019",
@@ -472,6 +490,7 @@ data = [
             director: ["Amrit Raj Gupta", "Palash Vaswani"],
         },
         poster: "https://www.imdb.com/title/tt10530900/mediaviewer/rm167171585/",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 2,
         releaseDate: "27 June 2019",
@@ -490,6 +509,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt8595766/mediaviewer/rm2060666368/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 7,
         seasons: 1,
         releaseDate: "12 July 2018",
@@ -513,6 +533,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt10651790/mediaviewer/rm3930173697/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 4,
         seasons: 1,
         releaseDate: "24 May 2020",
@@ -536,6 +557,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt12347286/mediaviewer/rm245543937/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 1,
         releaseDate: "24 May 2020",
@@ -559,6 +581,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt12392470/mediaviewer/rm31501057/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 12,
         seasons: 1,
         releaseDate: "18 June 2020",
@@ -582,6 +605,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt12416834/mediaviewer/rm4258376193/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 1,
         releaseDate: "19 June 2020",
@@ -605,6 +629,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt12701270/mediaviewer/rm3460735233/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "23 September 2020",
@@ -623,6 +648,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt12392458/mediaviewer/rm1217375233/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 9,
         seasons: 1,
         releaseDate: "31 July 2020",
@@ -641,6 +667,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt7441984/mediaviewer/rm816947457/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 5,
         seasons: 1,
         releaseDate: "4 September 2020",
@@ -659,6 +686,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt13124352/mediaviewer/rm2919016193/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 6,
         seasons: 1,
         releaseDate: "23 September 2020",
@@ -682,6 +710,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt13032762/mediaviewer/rm1480184321/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 12,
         seasons: 1,
         releaseDate: "18 December 2020",
@@ -705,6 +734,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt13582638/mediaviewer/rm4029010433/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "18 December 2020",
@@ -728,6 +758,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt13439476/mediaviewer/rm868736257/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 7,
         seasons: 1,
         releaseDate: "29 December 2020",
@@ -751,6 +782,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt11117570/mediaviewer/rm3009728513/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 9,
         seasons: 1,
         releaseDate: "15 January 2021",
@@ -769,6 +801,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt13529854/mediaviewer/rm3284915201/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 1,
         releaseDate: "14 February 2021",
@@ -787,6 +820,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt8254592/mediaviewer/rm1235189248/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 16,
         seasons: 2,
         releaseDate: "11 May 2018",
@@ -805,6 +839,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt13304410/mediaviewer/rm3212363009/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "11 June 2021",
@@ -823,6 +858,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt6522580/mediaviewer/rm1326676992/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 21,
         seasons: 3,
         releaseDate: "25 October 2016",
@@ -841,6 +877,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt12207704/mediaviewer/rm3962811137/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "25 April 2020",
@@ -859,6 +896,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt9398466/mediaviewer/rm527785984/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 7,
         seasons: 1,
         releaseDate: "22 March 2019",
@@ -877,6 +915,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt11150912/mediaviewer/rm2010678785/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 11,
         seasons: 1,
         releaseDate: "10 January 2020",
@@ -900,6 +939,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt8595766/mediaviewer/rm2060666368/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 9,
         seasons: 2,
         releaseDate: "13 December 2019",
@@ -918,6 +958,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt10308632/mediaviewer/rm3671308033/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 1,
         releaseDate: "12 May 2020",
@@ -941,6 +982,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt12768990/mediaviewer/rm3545801473/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 4,
         seasons: 1,
         releaseDate: "20 August 2020",
@@ -964,6 +1006,7 @@ data = [
         },
         poster:
             "https://m.media-amazon.com/images/M/MV5BNDg5MTYzZWEtNTFmNy00YWRkLWI0MzctMzAwZjk1Yjk2OWY5XkEyXkFqcGdeQXVyODI2MzM0MTM@._V1_.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 40,
         seasons: 2,
         releaseDate: "25 April 2019",
@@ -986,6 +1029,7 @@ data = [
             director: ["Nandita Mehra"],
         },
         poster: "https://www.imdb.com/title/tt8228316/mediaviewer/rm66115073/",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 25,
         seasons: 5,
         releaseDate: "23 April 2018",
@@ -1004,6 +1048,7 @@ data = [
         },
         poster:
             "https://www.google.com/search?q=the+final+call+cast&client=safari&rls=en&sxsrf=AOaemvJUOXpT9dZ-7YldlRuDWi1LyoFQxQ:1633024868532&tbm=isch&source=iu&ictx=1&fir=7UTj8HuB5xmTLM%252CpZImB9hK62uxtM%252C_%253BfY5tRerhPzLEGM%252CsOrtqNcCkxcYVM%252C_%253BkxGF36-vnxUndM%252CKLKJg9W9czwGsM%252C_%253B194F_B6PBovLJM%252CLvzz-JFzpsDrtM%252C_%253BLg1uKypiyuChpM%252CzxSTkxbkqbbi1M%252C_%253B380HEuLutKiPmM%252CY4BcYd0m0QAyxM%252C_&vet=1&usg=AI4_-kTlRKsr60C2ZSo8kdrCuh2RQr8kMw&sa=X&ved=2ahUKEwjvocrZo6fzAhWEyDgGHeS6DuUQ_B16BAg9EAE#imgrc=7UTj8HuB5xmTLM",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "23 April 2019",
@@ -1030,6 +1075,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt9095260/mediaviewer/rm3311100928/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 1,
         releaseDate: "5 April 2019",
@@ -1048,6 +1094,7 @@ data = [
         },
         poster:
             "https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMjc1Y2QyM2UtNzNmZC00MjIxLWI1ZTQtMzQxZDhjZWU5MjhiXkEyXkFqcGdeQXVyMTMyNDIyMDYz._V1_FMjpg_UX1000_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt14631516%2F&tbnid=UWIZc5qJxBIXiM&vet=12ahUKEwi0kN_aqKfzAhUNm0sFHUJnBCwQMygAegUIARCtAQ..i&docid=4IfXl4927M1VqM&w=1000&h=1202&q=30%20weds%2021%20poster&ved=2ahUKEwi0kN_aqKfzAhUNm0sFHUJnBCwQMygAegUIARCtAQ",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 6,
         seasons: 1,
         releaseDate: "2 May 2021",
@@ -1071,6 +1118,7 @@ data = [
         },
         poster:
             "https://en.wikipedia.org/wiki/November_Story#/media/File:November_Story_Poster.png",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 7,
         seasons: 1,
         releaseDate: "20 May 2021",
@@ -1094,6 +1142,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt7927936/mediaviewer/rm1110346497/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 5,
         seasons: 2,
         releaseDate: "18 Oct 2019",
@@ -1111,6 +1160,7 @@ data = [
             director: ["Karan Anshuman"],
         },
         poster: "https://images.app.goo.gl/QZTJgTiy7Y2uPGWR6",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 24,
         seasons: 2,
         releaseDate: "22 July 2017",
@@ -1129,6 +1179,7 @@ data = [
         },
         poster:
             "https://wikitokbio.com/wp-content/uploads/2021/05/Maharani_Web_Series_cast_story.webp",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "28 May 2021",
@@ -1147,6 +1198,7 @@ data = [
         },
         poster:
             "https://en.wikipedia.org/wiki/Asur_(web_series)#/media/File:Asur_Title.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 1,
 
@@ -1166,6 +1218,7 @@ data = [
         },
         poster:
             "https://en.wikipedia.org/wiki/Asur_(web_series)#/media/File:Asur_Title.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 1,
         releaseDate: "8 Sept 2019",
@@ -1184,6 +1237,7 @@ data = [
         },
         poster:
             "https://upload.wikimedia.org/wikipedia/en/2/2f/She_%28TV_series%29_poster.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 7,
         seasons: 1,
         releaseDate: "20 March 2020",
@@ -1202,6 +1256,7 @@ data = [
         },
         poster:
             "https://upload.wikimedia.org/wikipedia/en/d/d0/Aashram_%28poster%29.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 20,
         seasons: 2,
         releaseDate: "2020",
@@ -1225,6 +1280,7 @@ data = [
             director: ["Baljit Singh Chaddha"],
         },
         poster: "https://www.imdb.com/title/tt11536424/mediaviewer/rm2437251329/",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "15 January 2020",
@@ -1250,6 +1306,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt9814458/mediaviewer/rm3169496833/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 9,
         seasons: 1,
         releaseDate: "August 4, 2020",
@@ -1274,6 +1331,7 @@ data = [
         },
         poster:
             "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flipkart.com%2Fbreaking-bad-poster-series-posters-room-office-paper-print%2Fp%2Fitm44706fffd0682&psig=AOvVaw3rt6mKhIrnRi8xDv0m905o&ust=1633118552957000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiGuOy-p_MCFQAAAAAdAAAAABAD",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 62,
         seasons: 5,
         releaseDate: "20 January 2008",
@@ -1292,6 +1350,7 @@ data = [
         },
         poster:
             "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt12004706%2F&psig=AOvVaw2zbNNoGLwC-HO7pvlRlUHe&ust=1633153982688000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiQ0vDCqPMCFQAAAAAdAAAAABAD",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 2,
         releaseDate: "3 April 2020",
@@ -1309,6 +1368,7 @@ data = [
             director: ["vivek Angihotri", "Rohit Malhotra"],
         },
         poster: "https://www.imdb.com/title/tt12913686/mediaviewer/rm2601441025/",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 7,
         seasons: 1,
         releaseDate: "328 November 2014",
@@ -1327,6 +1387,7 @@ data = [
         },
         poster:
             "https://m.media-amazon.com/images/M/MV5BZjBhNTE2NTctZmVlOC00YmY5LTgxMzMtNmRjOTJlNzZiYmU0XkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 20,
         seasons: 2,
         releaseDate: "25 January 2019 – 17 April 2020",
@@ -1345,6 +1406,7 @@ data = [
         },
         poster:
             "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBreathe_(TV_series)&psig=AOvVaw0aP1P_xt3EfWBN1OxZy6fy&ust=1633161079221000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC9-aHdqPMCFQAAAAAdAAAAABAD",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "26 Janaury 2018",
@@ -1364,6 +1426,7 @@ data = [
 
         poster:
             "https://www.imdb.com/title/tt11854694/mediaviewer/rm3405297665/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "16 March 2020",
@@ -1382,6 +1445,7 @@ data = [
         },
         poster:
             "https://www.google.com/search?q=indian+web+series+ghoul+poster&biw=1280&bih=657&sxsrf=AOaemvJ0N_PmxEQnRS48lgNTbN4xesuYaQ:1633076394337&tbm=isch&source=iu&ictx=1&fir=txAs8e8JDNl5MM%252CIMQoMHPy1SSvIM%252C_%253BdbzgZscEm6rIdM%252C2jwx2Yns0iexLM%252C_%253Bm39lGlxCsAsTLM%252CIMQoMHPy1SSvIM%252C_%253BqKZBCavNGXxaHM%252C2jwx2Yns0iexLM%252C_%253BpT138NPuyVzJfM%252C0uddl_W2_PeHMM%252C_%253BeGjbTVAA_mEMRM%252Cnm2SXzTf0aroRM%252C_%253BS5ZJGpF3qY47dM%252C2jwx2Yns0iexLM%252C_%253BdP_oceVHwAi4wM%252Ctv8lPcSMWVUPGM%252C_%253Bp-vJtvaeyCFR4M%252Ci125JIklsv8IoM%252C_%253BmmFIsSPJB1j3QM%252C2jwx2Yns0iexLM%252C_&vet=1&usg=AI4_-kTuz-oXlb9xbSXHZctZk37-DvxhVQ&sa=X&ved=2ahUKEwjyg4DT46jzAhUNSX0KHZxOB-IQ9QF6BAgHEAE#imgrc=txAs8e8JDNl5MM",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 14,
         seasons: 2,
         releaseDate: "27 Septmember 2019",
@@ -1403,6 +1467,7 @@ data = [
             director: ["Apoorv Singh Karki"],
         },
         poster: "https://www.imdb.com/title/tt14392248/?ref_=vp_vi_tt_p",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 5,
         seasons: 1,
         releaseDate: "7 April 2021",
@@ -1420,6 +1485,7 @@ data = [
         },
         poster:
             "https://www.google.com/search?q=ramayan+&tbm=isch&ved=2ahUKEwiC_ZLU4qjzAhUwoUsFHTshCocQ2-cCegQIABAA&oq=ramayan+&gs_lcp=CgNpbWcQAzIHCCMQ7wMQJzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQCBAeOgQIABAYUOkiWMEuYNszaABwAHgAgAHpAYgB3wuSAQUwLjYuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=oMNWYYKtErDCrtoPu8KouAg&bih=568&biw=1242",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 78,
         seasons: 1,
         releaseDate: "25 Janaury 1987",
@@ -1438,6 +1504,7 @@ data = [
         },
         poster:
             "https://www.google.com/search?q=rajma+chawal+poster&tbm=isch&ved=2ahUKEwi5wOb9_qjzAhXBnEsFHcRKD7sQ2-cCegQIABAA&oq=rajma+chawal+poster&gs_lcp=CgNpbWcQAzIFCAAQgAQ6CAgAEIAEELEDOggIABCxAxCDAToECAAQQzoHCAAQsQMQQzoLCAAQgAQQsQMQgwFQ6ShYmWRgwGVoAHAAeASAAZsDiAG7KJIBCjAuNy4xNS4wLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABAMABAQ&sclient=img&ei=U-FWYfnKM8G5rtoPxJW92As&bih=657&biw=1280",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 1,
         seasons: 1,
         releaseDate: " 2018",
@@ -1456,6 +1523,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt6494622/mediaviewer/rm2898882304/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 9,
         seasons: 1,
         releaseDate: "2019",
@@ -1474,6 +1542,7 @@ data = [
         },
         poster:
             "https://akamaividz2.zee5.com/image/upload/w_1920,h_770,c_scale,f_webp,q_auto:eco/resources/0-6-3444/cover/1170x658withlogof639cd40f9f447368600481d35a0348b.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 7,
         seasons: 2,
         releaseDate: "2021",
@@ -1497,6 +1566,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt13085536/mediaviewer/rm752287233/?ref_=ext_shr_lnk",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 7,
         seasons: 1,
         releaseDate: "2021",
@@ -1515,6 +1585,7 @@ data = [
         },
         poster:
             "https://akamaividz2.zee5.com/image/upload/w_1920,h_770,c_scale,f_webp,q_auto:eco/resources/0-6-2370/cover/1170x658withlog1647121299.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "20 March 2020",
@@ -1533,6 +1604,7 @@ data = [
         },
         poster:
             "https://akamaividz2.zee5.com/image/upload/w_1366,h_548,c_scale,f_webp,q_auto:eco/resources/0-6-2007/cover/062007inlist321362011.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 20,
         seasons: 2,
         releaseDate: "10 September 2019",
@@ -1551,6 +1623,7 @@ data = [
         },
         poster:
             "https://m.media-amazon.com/images/M/MV5BMTkzNjEzMDEzMF5BMl5BanBnXkFtZTgwMDI0MjE4MjE@._V1_FMjpg_UY337_.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 36,
         seasons: 6,
         releaseDate: "2013",
@@ -1569,6 +1642,7 @@ data = [
         },
         poster:
             "https://m.media-amazon.com/images/M/MV5BOThhOWJjZTAtNzFhYy00NDMwLTk5YzMtMDAwMDJkODJmZWFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 1,
         releaseDate: "2020",
@@ -1591,6 +1665,7 @@ data = [
             director: ["Vasan Bala", "Srijit Mukherji", "Abhishek Chaubey"],
         },
         poster: "https://static.toiimg.com/photo/msid-83358579/Ray.jpg?83358579",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 4,
         seasons: 1,
         releaseDate: "2021",
@@ -1609,6 +1684,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt12714854/fullcredits?ref_=tt_ov_st_sm",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "9 september 2021",
@@ -1626,6 +1702,7 @@ data = [
             director: ["Anu Menon"],
         },
         poster: "https://images.app.goo.gl/qE4ouYjFtLjMwgrQA",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 20,
         seasons: 2,
         releaseDate: "25 January 2019",
@@ -1643,6 +1720,7 @@ data = [
             director: ["Nikhil Nagesh Bhat"],
         },
         poster: "https://images.app.goo.gl/tS5oyDynqqg84Xrh6",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "25 June 2020",
@@ -1660,6 +1738,7 @@ data = [
             director: ["Akarsh Khurana", "Nipun Dharmadhikhari"],
         },
         poster: "https://www.imdb.com/title/tt12719250/mediaviewer/rm1713823233/",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 6,
         seasons: 1,
         releaseDate: "20-11-2020",
@@ -1684,6 +1763,7 @@ data = [
         },
         poster:
             "https://m.media-amazon.com/images/M/MV5BMTA5Y2FlNzMtMmJhZi00OGJiLTg0MjMtMjVhMjFjZDE1ODkxXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 5,
         seasons: 1,
         releaseDate: "07-04-2021",
@@ -1707,6 +1787,8 @@ data = [
             director: ["Prem Mistry"],
         },
         poster: "https://www.imdb.com/title/tt8254348/mediaviewer/rm3688648192/",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 5,
         seasons: 1,
         releaseDate: "18 February 2019",
@@ -1725,6 +1807,7 @@ data = [
         },
         poster:
             "https://en.wikipedia.org/wiki/Asur_(web_series)#/media/File:Asur_Title.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 8,
         seasons: 1,
         releaseDate: "2020",
@@ -1743,6 +1826,7 @@ data = [
         },
         poster:
             "https://m.media-amazon.com/images/M/MV5BMzM3NGIzNDctNWEyOC00ZTY1LWJhNmUtYzZkYmMxNDUwZDA5XkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 5,
         seasons: 2,
         releaseDate: "2018",
@@ -1760,6 +1844,7 @@ data = [
             director: ["Nayana Shyam"],
         },
         poster: "https://www.imdb.com/title/tt11712598/mediaindex",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: "15",
         seasons: 3,
         releaseDate: "2018",
@@ -1778,6 +1863,7 @@ data = [
         },
         poster:
             "https://upload.wikimedia.org/wikipedia/en/d/dc/The_Family_Man.jpeg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: "19",
         seasons: 2,
         releaseDate: "2019",
@@ -1795,6 +1881,7 @@ data = [
             director: ["Neeraj Pandey"],
         },
         poster: "https://trakt.tv/shows/bandon-mein-tha-dum",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: "4",
         seasons: 1,
         releaseDate: "16/06/2022",
@@ -1812,6 +1899,7 @@ data = [
             director: ["Tom Dey"],
         },
         poster: "https://www.imdb.com/title/tt11426572/?ref_=tt_mv_close",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         seasons: 1,
         releaseDate: "2022",
     },
@@ -1836,6 +1924,7 @@ data = [
             director: ["Raghav Subbu"],
         },
         poster: "https://www.imdb.com/title/tt9432978/mediaviewer/rm2976277760/",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 2,
         releaseDate: "16-04-2019",
@@ -1862,6 +1951,7 @@ data = [
         },
         poster:
             "https://m.media-amazon.com/images/M/MV5BOGY2MmRmNGEtYzkzZC00MzE5LTkwNzAtM2Q4OGM2NGE5ODllXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY100_CR16,0,100,100_AL_.jpg/",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 19,
         seasons: 2,
         releaseDate: "20-09-2019",
@@ -1888,6 +1978,7 @@ data = [
         },
         poster:
             "https://en.wikipedia.org/wiki/File:The_Legend_of_Hanuman_Poster.jpeg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 26,
         seasons: 2,
         releaseDate: "29-01-2021",
@@ -1914,6 +2005,7 @@ data = [
         },
         poster:
             "https://upload.wikimedia.org/wikipedia/en/c/c4/The_office_poster.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 27,
         seasons: 2,
         releaseDate: "28-07-2019",
@@ -1938,6 +2030,7 @@ data = [
         },
         poster:
             "https://www.imdb.com/title/tt6005644/mediaviewer/rm2166123776/?ref_=tt_ov_i",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 10,
         seasons: 2,
         releaseDate: {
@@ -1965,6 +2058,7 @@ data = [
         },
         poster:
             "https://www.google.com/search?q=whistleblower+series+poster&tbm=isch&ved=2ahUKEwiD7JeqqL36AhUmk9gFHac0AX0Q2-cCegQIABAA&oq=whistleblower+series+poster&gs_lcp=CgNpbWcQAzoECCMQJzoECAAQGFCHA1iILGCcLmgAcAB4AIABkQKIAbMUkgEGMC4xNy4zmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=H0w3Y8PgB6am4t4Pp-mE6Ac&bih=704&biw=767#imgrc=zWkSTvW2lTy-rM",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 6,
         seasons: 1,
         releaseDate: {
@@ -1985,6 +2079,7 @@ data = [
         },
         poster:
             "https://upload.wikimedia.org/wikipedia/en/1/1e/Mayanagari_City_of_Dreams.jpeg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 20,
         seasons: 2,
         releaseDate: {
@@ -2005,6 +2100,7 @@ data = [
         },
         poster:
             "https://m.media-amazon.com/images/M/MV5BNDA0ZjVlNDAtMWFkOC00YmQwLWEyNjQtNGMxYjNmYjcwNjVhXkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_UY209_CR0,0,140,209_AL_.jpg",
+        thumbnail: "https://assets.pinterest.com/ext/embed.html?id=123989795983983134",
         episodeCount: 6,
         seasons: 1,
         releaseDate: {
